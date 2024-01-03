@@ -1,0 +1,68 @@
+# personal information
+personal_info:
+  - name: Nazm Us Saqib
+    address: Deoria, Uttar Pradesh, India 274001
+    dob: 17/08/1999
+    email: "najmussaquib3@gmail.com"
+    phone_no: "+91 7881111304"
+
+# skills
+skills:
+  languages:
+    - English
+    - Hindi
+    - Urdu
+  other_skills:
+    - "Microsoft Office (Expert)"
+    - "Typing"
+    - "PDF Manipulation"
+    - "Comfortable with any software"
+    - "Familiar with web technologies"
+
+# publications
+publications:
+  - title: "Analysing Emotional Depth in AI-Generated Poetry: A New Frontier in Computational Creativity"
+    authors: Nazm Us Saqib
+    journal: "Jamshedpur Research Review vol. 5 issue 61, 150-155"
+    date: 19 Nov, 2023
+
+#presentations
+presentations:
+  - title: "Identity, Migration and Cultural Displacement in the Poems of Tabish Khair: A Postcolonial Overview"
+    conf: 'Indian English Poetry: Toru Dutt to Vanavil K Ravi'
+    date: 1, 2 May, 2023
+
+  - title: 'The ongoing Hijab debate in Iran and India: A study through 50 archived internet memes'
+    conf: 'E-Literature: Explorations in Literary Creativity'
+    date: 16-17 January 2023
+
+# internships
+internships:
+  - company: Brown Book Publishers, Aligarh
+    position: Copy-editor and Proofreader
+    year: 2022
+
+  - company: auchitya.com
+    position: "Content Writing"
+    year: 2020
+
+  - company: Internshala, Aligarh
+    position: Campus Ambassador
+    year: 2019
+
+  - company: AMU Literary And Debating Club, Aligarh
+    position: Event Management
+    year: 2019
+
+myname:
+  - name1: saqib
+    two: idon
+# extracurricular
+extras:
+  - task: Volunteered in organising the “International Conference on 100 years of The Waste Land, Ulysses, and Jacob's Room” at the Department of English, Aligarh Muslim University in February 2023.
+  - task: 'Volunteered in organising “The 19th International Biennial Symposium on Literature and Culture in the Asia-Pacific Region” at the Department of English, Aligarh Muslim University in November 2022.'
+  - task: Public Relations team member in Filmsaaz (International Film Festival). Written contents regarding the event.
+  - task: Worked as a Disciplinary Committee Member in organising Filmsaaz (International Film Festival) at Aligarh Muslim University.
+  - task: Decoration committee member in organising the University Literary Festival.
+  - task: Volunteered in organising Sir Syed Day 2018, at Aligarh Muslim University.
+

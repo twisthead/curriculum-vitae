@@ -1,0 +1,106 @@
+---
+layout: home
+---
+<h3>Personal Information</h3>
+{% for pinfo in site.data.profile.personal_info %}
+  <p>
+    <b>Name:</b> {{ pinfo.name }} <br>
+    <b>Address:</b> {{ pinfo.address }}<br>
+    <b>DOB:</b> {{ pinfo.dob }} <br>
+    <b>Email:</b> <a href="mailto:{{ pinfo.email }}">{{ pinfo.email }}</a><br>
+    <b>Ph. No.:</b> {{ pinfo.phone_no }}</p>
+{% endfor %}
+
+
+<!-- Educational Qualification Section -->
+
+<h3>Educational Qualification</h3>
+<table>
+    <thead>
+      <tr>
+        <th>Degree</th>
+        <th>Board/Institution</th>
+        <th>Year</th>
+        <th>Grade/%</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for entry in site.data.edu %}
+        <tr>
+          <td>{{ entry.qual.degree }}</td>
+          <td>{{ entry.qual.insti }}</td>
+          <td>{{ entry.qual.year }}</td>
+          <td>{{ entry.qual.marks }} </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  
+<!-- Skills Section -->
+<h3>Skills</h3>
+<ul>
+    <li>
+        <strong>Technical Skills:</strong>
+        <ul>
+            {% for skill_entry in site.data.profile.skills.other_skills %}
+            <li>
+              {{ skill_entry }}
+            </li>
+          {% endfor %}
+        </ul>
+    </li>
+
+  <li><strong>Languages:</strong>
+    <ul>
+        {% for skill_entry in site.data.profile.skills.languages %}
+        <li>
+          {{ skill_entry }}
+        </li>
+      {% endfor %}
+    </ul>
+    </li>
+  
+</ul>
+
+<!-- Publications Sections -->
+<h3>Publications</h3>  
+<ol>
+    {% for publication in site.data.profile.publications %}
+      <li>
+        "{{ publication.title }}". Published in {{ publication.journal }}. Pub. on {{ publication.date }}.
+      </li>
+    {% endfor %}
+  </ol>
+
+<!-- Papers Presented Section -->
+<h3>Papers Presented</h3>
+<ol>
+  {% for presentation in site.data.profile.presentations %}
+  <li>
+    <b>{{ presentation.title }}</b>. Presented at {{ presentation.conf }}, {{ presentation.date }}.
+  </li>
+{% endfor %}
+</ol>
+
+<!-- Internships Section -->
+<h3>Internships</h3>
+<ol>
+  {% for internship in site.data.profile.internships %}
+    <li>
+      <strong>Company:</strong> {{ internship.company }}<br>
+      <strong>Position:</strong> {{ internship.position }}<br>
+      <strong>Year:</strong> {{ internship.year }}
+    </li>
+  {% endfor %}
+</ol>
+  
+<!-- Extracurricular Activities Section -->
+
+<h3>Extracurricular Activities</h3>
+<ol>
+  {% for eca in site.data.profile.extras %}
+    <li>
+      {{ eca.task }}
+    </li>
+  {% endfor %}
+</ol>

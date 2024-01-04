@@ -29,13 +29,14 @@
 ---------------------------------------------------*/
 header {
   text-align: center;
-  padding: 30px 0;
+  padding: 50px 0 15px 0;
 }
 footer {
   border-top: 1px solid #222;
   width: 50%;
   margin: 35px auto 50px auto;
 }
+.edu-tbl {overflow-y: scroll;}
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
@@ -59,10 +60,9 @@ footer {
 }
 
 /* For devices larger than 550px */
-@media (min-width: 550px) {
+@media (min-width: 768px) {
   .container {
-    width: 85%;
-    padding: 0; }
+    width: 80%;}
   .column,
   .columns {
     margin-left: 4%; }
@@ -132,10 +132,10 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 62.5%; }
 body {
-  font-size: 1.6em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  font-size: 1.8em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Sorts Mill Goudy', "Lora", Georgia, 'Times New Roman', Times, serif;
   color: #222; }
 
 

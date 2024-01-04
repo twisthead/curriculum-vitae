@@ -1,4 +1,7 @@
-This is my Curriculum Vitae. Hosted at [this page](https://twisthead.github.io/curriculum-vitae/).
+# Curriculum Vitae
+
+This is my Curriculum Vitae. Hosted [here](https://twisthead.github.io/curriculum-vitae/).
 
 - Made using Jekyll. 
-- Uses [simplecss.org](simplecss.org) as CSS framework. 
+- Uses [Skeleton](www.getskeleton.com) as CSS framework. 
+- Font is Sorts Mill Goudy from Google Fonts.

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h4>Personal Information</h4>
+<h5>Personal Information</h5>
 {% for pinfo in site.data.profile.personal_info %}
   <p>
     <b>Name:</b> {{ pinfo.name }} <br>
@@ -15,7 +15,7 @@ layout: default
 <!-- Educational Qualification Section -->
 
 <div class="edu-tbl">
-  <h4>Educational Qualification</h4>
+  <h5>Educational Qualification</h5>
 <table>
     <thead>
       <tr>
@@ -37,30 +37,30 @@ layout: default
     </tbody>
   </table>
 </div>
-  
+
 
 <!-- Publications Sections -->
-<h4>Publications</h4>  
+<h5>Publications</h5>
 <ol>
     {% for publication in site.data.profile.publications %}
       <li>
-        <b>"{{ publication.title }}"</b>. Published in {{ publication.journal }}. Pub. on {{ publication.date }}.
+        <b>“{{ publication.title }}”</b>. Published in {{ publication.journal }}. Pub. on {{ publication.date }}.
       </li>
     {% endfor %}
   </ol>
 
 <!-- Papers Presented Section -->
-<h4>Papers Presented</h4>
+<h5>Papers Presented</h5>
 <ol>
   {% for presentation in site.data.profile.presentations %}
   <li>
-    <b>"{{ presentation.title }}"</b>. Presented at {{ presentation.conf }}, {{ presentation.date }}.
+    <b>“{{ presentation.title }}”</b>. Presented at {{ presentation.conf }}, {{ presentation.date }}.
   </li>
 {% endfor %}
 </ol>
 
 <!-- Internships Section -->
-<h4>Internships</h4>
+<h5>Internships</h5>
 <ol>
   {% for internship in site.data.profile.internships %}
     <li>
@@ -72,7 +72,7 @@ layout: default
 </ol>
 
 <!-- Skills Section -->
-<h4>Skills</h4>
+<h5>Skills</h5>
 <ul>
     <li>
         <strong>Technical Skills:</strong>
@@ -94,12 +94,12 @@ layout: default
       {% endfor %}
     </ul>
     </li>
-  
+
 </ul>
 
 <!-- Extracurricular Activities Section -->
 
-<h4>Extracurricular Activities</h4>
+<h5>Extracurricular Activities</h5>
 <ol>
   {% for eca in site.data.profile.extras %}
     <li>

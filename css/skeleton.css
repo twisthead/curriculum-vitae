@@ -25,7 +25,7 @@
 - Media Queries
 */
 
-/* Custon Code 
+/* Custon Code
 ---------------------------------------------------*/
 header {
   text-align: center;
@@ -132,10 +132,10 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 62.5%; }
 body {
-  font-size: 1.8em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: 'Sorts Mill Goudy', "Lora", Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Libre Baskerville', serif;
   color: #222; }
 
 
@@ -301,7 +301,7 @@ label > .label-body {
 ul {
   list-style: circle inside; }
 ol {
-  list-style: decimal inside; text-indent: -15px; margin-left: 15px; }
+  list-style: decimal inside; text-indent: -20px; margin-left: 15px; }
 ol, ul {
   padding-left: 0;
   margin-top: 0; }
@@ -312,7 +312,8 @@ ol ul {
   margin: 1.5rem 0 1.5rem 3rem;
   font-size: 90%; }
 li {
-  margin-bottom: 1rem; }
+  margin-bottom: 1.5rem; }
+  ol>li {margin-bottom: 2rem;}
 
 
 /* Code

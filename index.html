@@ -37,8 +37,8 @@ layout: default
     </tbody>
   </table>
 </div>
-
-
+<li><strong>Qualified UGC NET in December 2023</strong>
+</li>
 <!-- Publications Sections -->
 <h5>Publications</h5>
 <ol>
@@ -54,7 +54,7 @@ layout: default
 <ol>
   {% for presentation in site.data.profile.presentations %}
   <li>
-    <b>“{{ presentation.title }}”</b>. Presented at {{ presentation.conf }}, {{ presentation.date }}.
+    <b>“{{ presentation.title }}”</b>. Presented at {{ presentation.conf }} organised by {{ presentation.by }}, {{ presentation.date }}.
   </li>
 {% endfor %}
 </ol>
@@ -84,8 +84,9 @@ layout: default
           {% endfor %}
         </ul>
     </li>
+  <li>
+    <strong>Languages:</strong>
 
-  <li><strong>Languages:</strong>
     <ul>
         {% for skill_entry in site.data.profile.skills.languages %}
         <li>

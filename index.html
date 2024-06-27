@@ -59,6 +59,15 @@ layout: default
 {% endfor %}
 </ol>
 
+<!-- Work Experience Section -->
+<h5>Work Experience</h5>
+  <ol>
+    {% for exp in site.data.profile.workexp %}
+      <li>Worked as a <b>{{ exp.position }}</b> at {{ exp.institution }} from {{ exp.time }}.</li>
+    {% endfor %}
+  </ol>
+  
+
 <!-- Internships Section -->
 <h5>Internships</h5>
 <ol>

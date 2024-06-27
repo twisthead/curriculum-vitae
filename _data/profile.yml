@@ -26,6 +26,11 @@ publications:
     journal: "Jamshedpur Research Review vol. 5 issue 61, 150-155"
     date: 19 Nov, 2023
 
+  - title: "A Hidden Narrative: Examining the Emissary’s Position inBrowning’s ‘My Last Duchess’"
+    authors: Nazm Us Saqib
+    journal: "Bodhi International Journal of Research in Humanities, Arts and Science vol. 8 no. 5, 82-86"
+    date: 22 June, 2024
+
 #presentations
 presentations:
   - title: 'Identity, Migration and Cultural Displacement in the Poems of Tabish Khair: A Postcolonial Overview'
@@ -37,6 +42,12 @@ presentations:
     conf: 'E-Literature: Explorations in Literary Creativity'
     by: 'Department of English, Jamia Millia Islamia'
     date: 16-17 January 2023
+
+# work experience
+workexp:
+  - position: 'Research Associate'
+    institution: 'The English and Foreign Languages University'
+    time: 'December 2023 to March 2023'
 
 # internships
 internships:

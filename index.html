@@ -44,7 +44,7 @@ layout: default
 <ol>
     {% for publication in site.data.profile.publications %}
       <li>
-        <b>“{{ publication.title }}”</b>. Published in {{ publication.journal }}. Pub. on {{ publication.date }}.
+        <b>“{{ publication.title }}”</b>. Published in {{ publication.journal }}. Pub. on {{ publication.date }}. <span class="pdf-link">[<a href="{{ publication.link }}" style="text-decoration: none;" target="_blank">PDF</a>]</span>
       </li>
     {% endfor %}
   </ol>

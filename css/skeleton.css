@@ -37,6 +37,10 @@ footer {
   margin: 35px auto 50px auto;
 }
 .edu-tbl {overflow-y: scroll;}
+
+.new-tab-icon {
+  vertical-align: -10%;
+}
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {

@@ -61,24 +61,30 @@ workexp:
 internships:
   - company: Brown Book Publishers, Aligarh
     position: Copy-editor and Proofreader
+    location: Aligarh
     year: 2022
 
   - company: auchitya.com
     position: "Content Writing"
+    location: Online
     year: 2020
 
   - company: Internshala, Aligarh
     position: Campus Ambassador
+    location: Aligarh
     year: 2019
 
   - company: AMU Literary And Debating Club, Aligarh
     position: Event Management
+    location: Aligarh
     year: 2019
 
 # extracurricular
 extras:
   - task: Volunteered in organising the <b>“International Conference on 100 years of The Waste Land, Ulysses, and Jacob's Room”</b> at the Department of English, Aligarh Muslim University in February 2023.
   - task: 'Volunteered in organising <b>“The 19th International Biennial Symposium on Literature and Culture in the Asia-Pacific Region”</b> at the Department of English, Aligarh Muslim University in November 2022.'
+
+  - task: 'Independtly formed <strong>Majaz Literary Club</strong> at AMU in 2019. Organised poetry reading sessions, open mic and literary discussions under its aegis.'
   - task: Public Relations team member in <b>'Filmsaaz'</b> (International Film Festival). Wrote promotional content for the event.
   - task: Worked as a Disciplinary Committee Member in organising <b>'Filmsaaz'</b> (International Film Festival) at Aligarh Muslim University.
   - task: Decoration committee member in organising <b>'LitFest'</b> the University Literary Festival at AMU.

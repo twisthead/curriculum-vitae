@@ -43,6 +43,7 @@ footer {
 }
 .pdf-link {text-decoration:none;}
 .pdf-link:hover {text-decoration: underline;}
+.pdf {white-space: nowrap;}
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {

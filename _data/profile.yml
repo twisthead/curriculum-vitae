@@ -1,7 +1,7 @@
 # personal information
 personal_info:
   - name: Nazm Us Saqib
-    address: Deoria, Uttar Pradesh, India 274001
+    address: Lucknow, Uttar Pradesh, India 226018
     dob: 17/08/1999
     email: "najmussaquib3@gmail.com"
     phone_no: "+91 7881111304"
@@ -38,13 +38,14 @@ publications:
     authors: Nazm Us Saqib
     journal: "Bodhi International Journal of Research in Humanities, Arts and Science vol. 8 no. 5, 82-86"
     date: 22 June, 2024
-    doi: "a"
+    doi: '<a href="https://doi.org/10.5281/zenodo.14748434"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14748434.svg" alt="DOI"></a>'
 
 
   - title: "Analysing Emotional Depth in AI-Generated Poetry: A New Frontier in Computational Creativity"
     authors: Nazm Us Saqib
     journal: "Jamshedpur Research Review vol. 5 issue 61, 150-155"
     date: 19 Nov, 2023
+    doi: '<a href="https://doi.org/10.5281/zenodo.14748516"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14748516.svg" alt="DOI"></a>'
 
 
 #presentations

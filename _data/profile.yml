@@ -50,10 +50,15 @@ publications:
 
 #presentations
 presentations:
+  - title: "The Digital Turn in Literary Studies: Enhancing Scholarship through Computational Methods"
+    conf: "Evolution and Shifts: Emerging Patterns in Literature and Language"
+    by: "Maulana Azad National Urdu University, Lucknow Campus"
+    date: 24-25 February, 2025
+
   - title: "Identity, Migration and Cultural Displacement in the Poems of Tabish Khair: A Postcolonial Overview"
     conf: "Indian English Poetry: Toru Dutt to Vanavil K Ravi"
     by: "Department of English, Aligarh Muslim University"
-    date: 1, 2 May, 2023
+    date: 1-2 May, 2023
 
   - title: "The ongoing Hijab debate in Iran and India: A study through 50 archived internet memes"
     conf: "E-Literature: Explorations in Literary Creativity"

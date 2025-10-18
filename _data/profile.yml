@@ -49,21 +49,54 @@ publications:
 
 
 #presentations
-presentations:
-  - title: "The Digital Turn in Literary Studies: Enhancing Scholarship through Computational Methods"
-    conf: "Evolution and Shifts: Emerging Patterns in Literature and Language"
-    by: "Maulana Azad National Urdu University, Lucknow Campus"
-    date: 24-25 February, 2025
+events:
+  presentations:
+    - title: "The Digital Turn in Literary Studies: Enhancing Scholarship through Computational Methods"
+      conf: "Evolution and Shifts: Emerging Patterns in Literature and Language"
+      by: "Maulana Azad National Urdu University, Lucknow Campus"
+      date: 24-25 February, 2025
 
-  - title: "Identity, Migration and Cultural Displacement in the Poems of Tabish Khair: A Postcolonial Overview"
-    conf: "Indian English Poetry: Toru Dutt to Vanavil K Ravi"
-    by: "Department of English, Aligarh Muslim University"
-    date: 1-2 May, 2023
+    - title: "Identity, Migration and Cultural Displacement in the Poems of Tabish Khair: A Postcolonial Overview"
+      conf: "Indian English Poetry: Toru Dutt to Vanavil K Ravi"
+      by: "Department of English, Aligarh Muslim University"
+      date: 1-2 May, 2023
 
-  - title: "The ongoing Hijab debate in Iran and India: A study through 50 archived internet memes"
-    conf: "E-Literature: Explorations in Literary Creativity"
-    by: "Department of English, Jamia Millia Islamia"
-    date: 16-17 January 2023
+    - title: "The ongoing Hijab debate in Iran and India: A study through 50 archived internet memes"
+      conf: "E-Literature: Explorations in Literary Creativity"
+      by: "Department of English, Jamia Millia Islamia"
+      date: 16-17 January 2023
+
+  attended:
+    - title: "Dr. Kazim Ali Khan: Life and Academic Achievements"
+      by: "Maulana Azad National Urdu University (MANUU), Lucknow Campus and Era University, Lucknow"
+      date: 19-20 October, 2025
+
+    - title: "International Conference on 100 years of The Waste Land, Ulysses, and Jacob's Room"
+      by: "Department of English, Aligarh Muslim University"
+      date: 25-26 February, 2023
+
+    - title: "The 19th International Biennial Symposium on Literature and Culture in the Asia-Pacific Region"
+      by: "Department of English, Aligarh Muslim University"
+      date: 26-27 November, 2022
+
+  courses:
+    - initial: Completed a GIAN course on
+      title: "Mediatized Cultural Heritage in India: Digital Spaces, Practices and Communities"
+      by: "Department of Humanities and Social Sciences, National Institute of Technology, Silchar"
+      date: 1-12 July, 2024
+      
+  workshops:
+    - title: "7-Days National Workshop on Exploring Posthumanism: Interdisciplinary Perspectives and Debates"
+      by: "Department of English, Faculty of Science and Humanities, SRM Institute of Science and Technology, Kattankulathur"
+      date: 22 - 29 September, 2025
+    
+    - title: "Practical Aspects of ICT Tools and Online Teaching in Current Scenario"
+      by: "K.L.E Society's Science and Commerce College, Kalamboli, Navi Mumbai"
+      date: 21-26 April, 2025
+
+    - title: ICSSR-sponsored 10-day Research Methodology Course on Digital Humanities
+      by: "National Institute of Technology, Silchar"
+      date: 13-22 January, 2025
 
 # work experience
 workexp:

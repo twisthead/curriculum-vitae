@@ -17,7 +17,6 @@ GEM
     ffi (1.16.3)
     fiddle (1.1.8)
     forwardable-extended (2.6.0)
-    gdbm (2.1.1)
     google-protobuf (4.32.1)
       bigdecimal
       rake (>= 13)
@@ -156,7 +155,6 @@ DEPENDENCIES
   csv
   etc
   fiddle
-  gdbm
   google-protobuf (~> 4.32.1)
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.2)

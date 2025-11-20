@@ -24,27 +24,27 @@ publications:
   - title: 'Between Violence and Non-Violence: Theories of Decolonization in the Israeli Settler-Colonial Project'
     authors: Nazm Us Saqib
     journal: 'Das Literarisch vol. 7, no. 2'
-    date: 21 Jan, 2025
+    date: 21 January 2025
     doi: '<a href="https://doi.org/10.5281/zenodo.14739967"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14739967.svg" alt="DOI"></a>'
 
   - title: "Echoes of Disillusionment: Comparative Analysis of 'Look Back in Anger' and 'Aadhe Adhure' in Depicting Middle-Class Struggles"
     authors: Nazm Us Saqib
     journal: "Lapis Lazuli: An International Literary Journal vol. 14, no. 1, 37-47"
-    date: 15 July, 2024
+    date: 15 July 2024
     doi: '<a href="https://doi.org/10.5281/zenodo.14717203"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14717203.svg" alt="DOI"></a>'
 
     
   - title: "A Hidden Narrative: Examining the Emissary's Position in Browning's 'My Last Duchess'"
     authors: Nazm Us Saqib
     journal: "Bodhi International Journal of Research in Humanities, Arts and Science vol. 8 no. 5, 82-86"
-    date: 22 June, 2024
+    date: 22 June 2024
     doi: '<a href="https://doi.org/10.5281/zenodo.14748434"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14748434.svg" alt="DOI"></a>'
 
 
   - title: "Analysing Emotional Depth in AI-Generated Poetry: A New Frontier in Computational Creativity"
     authors: Nazm Us Saqib
     journal: "Jamshedpur Research Review vol. 5 issue 61, 150-155"
-    date: 19 Nov, 2023
+    date: 19 November 2023
     doi: '<a href="https://doi.org/10.5281/zenodo.14748516"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14748516.svg" alt="DOI"></a>'
 
 
@@ -54,12 +54,12 @@ events:
     - title: "The Digital Turn in Literary Studies: Enhancing Scholarship through Computational Methods"
       conf: "Evolution and Shifts: Emerging Patterns in Literature and Language"
       by: "Maulana Azad National Urdu University, Lucknow Campus"
-      date: 24-25 February, 2025
+      date: 24-25 February 2025
 
     - title: "Identity, Migration and Cultural Displacement in the Poems of Tabish Khair: A Postcolonial Overview"
       conf: "Indian English Poetry: Toru Dutt to Vanavil K Ravi"
       by: "Department of English, Aligarh Muslim University"
-      date: 1-2 May, 2023
+      date: 1-2 May 2023
 
     - title: "The ongoing Hijab debate in Iran and India: A study through 50 archived internet memes"
       conf: "E-Literature: Explorations in Literary Creativity"
@@ -69,34 +69,38 @@ events:
   attended:
     - title: "Dr. Kazim Ali Khan: Life and Academic Achievements"
       by: "Maulana Azad National Urdu University (MANUU), Lucknow Campus and Era University, Lucknow"
-      date: 19-20 October, 2025
+      date: 19-20 October 2025
 
     - title: "International Conference on 100 years of The Waste Land, Ulysses, and Jacob's Room"
       by: "Department of English, Aligarh Muslim University"
-      date: 25-26 February, 2023
+      date: 25-26 February 2023
 
     - title: "The 19th International Biennial Symposium on Literature and Culture in the Asia-Pacific Region"
       by: "Department of English, Aligarh Muslim University"
-      date: 26-27 November, 2022
+      date: 26-27 November 2022
 
   courses:
     - initial: Completed a GIAN course on
       title: "Mediatized Cultural Heritage in India: Digital Spaces, Practices and Communities"
       by: "Department of Humanities and Social Sciences, National Institute of Technology, Silchar"
-      date: 1-12 July, 2024
+      date: 1-12 July 2024
       
   workshops:
     - title: "7-Days National Workshop on Exploring Posthumanism: Interdisciplinary Perspectives and Debates"
       by: "Department of English, Faculty of Science and Humanities, SRM Institute of Science and Technology, Kattankulathur"
-      date: 22 - 29 September, 2025
+      date: 22 - 29 September 2025
     
     - title: "Practical Aspects of ICT Tools and Online Teaching in Current Scenario"
       by: "K.L.E Society's Science and Commerce College, Kalamboli, Navi Mumbai"
-      date: 21-26 April, 2025
+      date: 21-26 April 2025
 
     - title: ICSSR-sponsored 10-day Research Methodology Course on Digital Humanities
       by: "National Institute of Technology, Silchar"
-      date: 13-22 January, 2025
+      date: 13-22 January 2025
+
+    - title: "Be Ready for Anything with English as a Life Skill"
+      by: "Post Graduate Government College for Girls 42, Chandigarh in collaboration with Cambridge University Press"
+      date: 18 August 2020
 
 # work experience
 workexp:

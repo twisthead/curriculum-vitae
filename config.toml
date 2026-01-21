@@ -1,0 +1,7 @@
+baseURL = "https://USERNAME.github.io/REPOSITORY/" # replace USERNAME and REPOSITORY
+languageCode = "en-us"
+title = "Curriculum Vitae"
+
+# For GitHub Pages automatic deployment via Actions, the workflow builds
+# the site and publishes the `public/` directory to the `gh-pages` branch.
+# Edit `baseURL` above to your GitHub Pages URL or leave as `/` for relative URLs.

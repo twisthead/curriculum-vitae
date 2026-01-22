@@ -66,13 +66,27 @@
                   <li><strong>Qualified UGC NET in December 2023</strong>
                 </li>
                 </ul>
+
+
                 <!-- Publications Sections -->
+
                 <h5>Publications</h5>
+
                 <p class="bold">Journal Articles</p>
                 <ol>
-                    {{ range .Site.Data.profile.publications }}
+                    {{ range .Site.Data.profile.publications.journal_articles }}
                       <li>
-                        <b>“{{ .title }}”</b>. Published in {{ .journal }}. Pub. on {{ .date }}. 
+                        <b>“{{ .title }}”</b>. Published in <em>{{ .journal }}</em> {{ .vol_issue }}. Pub. on {{ .date }}. 
+                        <span>{{ .doi | safeHTML }}</span>
+                      </li>
+                    {{ end }}
+                </ol>
+
+                <p class="bold">Book Chapters</p>
+                <ol>
+                    {{ range .Site.Data.profile.publications.book_chapters }}
+                      <li>
+                        <b>“{{ .title }}”</b>. Published in <em>{{ .book }}</em> edited by {{ .editors }}. Pub. by {{ .publisher }}. {{ .date }}. 
                         <span>{{ .doi | safeHTML }}</span>
                       </li>
                     {{ end }}

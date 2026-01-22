@@ -21,32 +21,45 @@ skills:
 
 # publications
 publications:
-  - title: 'Between Violence and Non-Violence: Theories of Decolonization in the Israeli Settler-Colonial Project'
-    authors: Nazm Us Saqib
-    journal: 'Das Literarisch vol. 7, no. 2'
-    date: 21 January 2025
-    doi: '<a href="https://doi.org/10.5281/zenodo.14739967"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14739967.svg" alt="DOI"></a>'
+  journal_articles:
+    - title: 'Between Violence and Non-Violence: Theories of Decolonization in the Israeli Settler-Colonial Project'
+      authors: Nazm Us Saqib
+      journal: 'Das Literarisch'
+      vol_issue: '7(2)'
+      date: 21 January 2025
+      doi: '<a href="https://doi.org/10.5281/zenodo.14739967"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14739967.svg" alt="DOI"></a>'
 
-  - title: "Echoes of Disillusionment: Comparative Analysis of 'Look Back in Anger' and 'Aadhe Adhure' in Depicting Middle-Class Struggles"
-    authors: Nazm Us Saqib
-    journal: "Lapis Lazuli: An International Literary Journal vol. 14, no. 1, 37-47"
-    date: 15 July 2024
-    doi: '<a href="https://doi.org/10.5281/zenodo.14717203"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14717203.svg" alt="DOI"></a>'
+    - title: "Echoes of Disillusionment: Comparative Analysis of 'Look Back in Anger' and 'Aadhe Adhure' in Depicting Middle-Class Struggles"
+      authors: Nazm Us Saqib
+      journal: "Lapis Lazuli: An International Literary Journal"
+      vol_issue: "14(1), 37-47"
+      date: 15 July 2024
+      doi: '<a href="https://doi.org/10.5281/zenodo.14717203"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14717203.svg" alt="DOI"></a>'
 
-    
-  - title: "A Hidden Narrative: Examining the Emissary's Position in Browning's 'My Last Duchess'"
-    authors: Nazm Us Saqib
-    journal: "Bodhi International Journal of Research in Humanities, Arts and Science vol. 8 no. 5, 82-86"
-    date: 22 June 2024
-    doi: '<a href="https://doi.org/10.5281/zenodo.14748434"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14748434.svg" alt="DOI"></a>'
+      
+    - title: "A Hidden Narrative: Examining the Emissary's Position in Browning's 'My Last Duchess'"
+      authors: Nazm Us Saqib
+      journal: "Bodhi International Journal of Research in Humanities, Arts and Science"
+      vol_issue: "8(5), 82-86"
+      date: 22 June 2024
+      doi: '<a href="https://doi.org/10.5281/zenodo.14748434"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14748434.svg" alt="DOI"></a>'
 
 
-  - title: "Analysing Emotional Depth in AI-Generated Poetry: A New Frontier in Computational Creativity"
-    authors: Nazm Us Saqib
-    journal: "Jamshedpur Research Review vol. 5 issue 61, 150-155"
-    date: 19 November 2023
-    doi: '<a href="https://doi.org/10.5281/zenodo.14748516"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14748516.svg" alt="DOI"></a>'
+    - title: "Analysing Emotional Depth in AI-Generated Poetry: A New Frontier in Computational Creativity"
+      authors: Nazm Us Saqib
+      journal: "Jamshedpur Research Review"
+      vol_issue: "5(61), 150-155"
+      date: 19 November 2023
+      doi: '<a href="https://doi.org/10.5281/zenodo.14748516"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14748516.svg" alt="DOI"></a>'
 
+  book_chapters:
+    - title: "The Indian Value System and Posthumanism: The 'Alignment Problem' in the Indian Context"
+      authors: Nazm Us Saqib
+      book: "Exploring Posthumanism: Interdisciplinary Perspectives and Debates"
+      editors: "Dr.K.Shantichitra, K.Priyadharshini, K.B.Suryakanth"
+      publisher: "Shanlax Publications"
+      date: 2025
+      doi: '<a href="https://doi.org/10.34293/shanlax.9789361632587.ch023"><img alt="Static Badge" src="https://img.shields.io/badge/DOI-10.34293%2Fshanlax.9789361632587.ch023-blue"></a>'
 
 #presentations
 events:

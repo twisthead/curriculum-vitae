@@ -1,4 +1,4 @@
-baseURL = "https://USERNAME.github.io/REPOSITORY/" # replace USERNAME and REPOSITORY
+baseURL = "/" # Use "/" for relative URLs to work on localhost
 languageCode = "en-us"
 title = "Curriculum Vitae"
 

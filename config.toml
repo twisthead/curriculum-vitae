@@ -1,4 +1,4 @@
-baseURL = "/" # Use "/" for relative URLs to work on localhost
+baseURL = "https://twisthead.github.io/curriculum-vitae/"
 languageCode = "en-us"
 title = "Curriculum Vitae"
 
